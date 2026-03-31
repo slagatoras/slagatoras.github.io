@@ -12,7 +12,6 @@ contextweb.com, 558622, RESELLER, 89ff185a4c4e857c
 admanmedia.com, 2242, RESELLER
 sharethrough.com, sniqcomc, RESELLER, d53b998a7bd4ecd2
 programmaticx.ai, 84448, RESELLER, b42d42eb28400efa
-google.com, pub-2923085774557613, RESELLER, f08c47fec0942fa0
 appnexus.com, 17234, RESELLER
 appnexus.com, 11826, RESELLER, f5ab79cb980f11d1
 triplelift.com, 12908, RESELLER, 6c33edb13117fd86
@@ -45,7 +44,6 @@ ushareit.com, lcb555b3bc8667a09a, RESELLER
 media.net, 8CUH46N56, RESELLER
 tredio.io, 357a6fdf7642bf815a88822c447d9dc436891, RESELLER
 app-stock.com, 256917, RESELLER
-google.com, pub-3990748024667386, RESELLER, f08c47fec0942fa0
 sharethrough.com, bc6d1whs, RESELLER, d53b998a7bd4ecd2
 pubnative.net, 1009966, RESELLER, d641df8625486a7b
 algorix.co, 54616, RESELLER, 5b394c12fea27a1d
@@ -82,8 +80,6 @@ rubiconproject.com, 22412, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 25064, RESELLER, 0bfd66d529a55807
 smaato.com, 1100059563, RESELLER, 07bcf65f187117b4
 smartadserver.com, 4456, RESELLER
-google.com, pub-5060663379040713, RESELLER, f08c47fec0942fa0
-google.com, pub-1682595508078257, RESELLER, f08c47fec0942fa0
 sharethrough.com, ftvct81v, RESELLER
 appnexus.com, 14230, RESELLER, f5ab79cb980f11d1
 opera.com, pub6148735850944, RESELLER, 55a0c5fd61378de3
